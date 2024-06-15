@@ -1,9 +1,9 @@
 # 
 
 <div align="center" >
-<img style="height:20px;" src="./../.github/assets/terminal.png" /> 
+<img style="height:200px;" src="./../.github/assets/terminal.png" /> 
 <br />
-# TODOs Program
+<h1>TODOs Program</h1>
 </div>
 
 This project is a simple todo application implemented in Rust, designed to manage notes via a console interface. Users can create new notes, delete existing ones, and display their current list of notes directly from the command line.
