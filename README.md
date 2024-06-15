@@ -8,3 +8,19 @@
 
 This repository contains a collection of console-based projects developed in the Rust programming language. Each project demonstrates fundamental Rust concepts and provides practical examples of building command-line utilities and applications.
 </div>
+
+## How to Run
+
+```sh
+cd ./{cargo-project} ;
+cargo run ;
+```
+
+## How to Build/Package
+
+```sh
+cd ./{cargo-project} ;
+cargo build ;
+./target/debug/{cargo-project}
+```
+
