@@ -17,9 +17,9 @@ This project is a simple todo application implemented in Rust, designed to manag
 ## Glance
 
 <div align="center" >
-&nbsp;<img style="height:200px;" src="./.github/image.png" />&nbsp;
-&nbsp;<img style="height:200px;" src="./.github/image-1.png" />&nbsp;
-&nbsp;<img style="height:200px;" src="./.github/image-2.png" />&nbsp;
-&nbsp;<img style="height:200px;" src="./.github/image-3.png" />&nbsp;
-&nbsp;<img style="height:200px;" src="./.github/image-4.png" />&nbsp;
+&nbsp;<img style="height:100px;" src="./.github/image.png" />&nbsp;
+&nbsp;<img style="height:100px;" src="./.github/image-1.png" />&nbsp;
+&nbsp;<img style="height:100px;" src="./.github/image-2.png" />&nbsp;
+&nbsp;<img style="height:100px;" src="./.github/image-4.png" />&nbsp;
+&nbsp;<img style="height:100px;" src="./.github/image-3.png" />&nbsp;
 </div>
