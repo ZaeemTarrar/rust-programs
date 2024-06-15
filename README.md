@@ -24,3 +24,8 @@ cargo build ;
 ./target/debug/{cargo-project}
 ```
 
+## Programs/Projects
+
+🟢 TODOs Program
+🟡 Tik-Tak-Toe Program
+
