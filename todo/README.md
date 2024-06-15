@@ -1,5 +1,3 @@
-# 
-
 <div align="center" >
 <img style="height:100px;" src="./../.github/assets/terminal.png" /> 
 <br />
@@ -14,7 +12,8 @@ This project is a simple todo application implemented in Rust, designed to manag
 - **Delete Notes:** Remove notes that are completed or no longer needed.
 - **Display Notes:** View your current list of notes with descriptions.
 - **Change Notes Status:** Every note after it's read or seen, is marked as read.
-## Glance
+
+## Snapshots
 
 <div align="center" >
 &nbsp;<img style="height:150px;" src="./.github/image.png" />&nbsp;
