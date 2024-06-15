@@ -26,6 +26,6 @@ cargo build ;
 
 ## Programs/Projects
 
-- [x] TODOs Program ![ 🔗 ](https://github.com/ZaeemTarrar/rust-programs/tree/main/todo)
+- [x] TODOs Program (![todo 🔗](/todo))
 - [ ] Tik-Tak-Toe Program
 
