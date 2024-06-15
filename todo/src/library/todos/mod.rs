@@ -21,6 +21,9 @@ pub mod todos {
         pub fn get_read(&self) -> &bool {
             &self.read
         }
+        pub fn set_read(&mut self, r: bool) {
+            self.read = r;
+        }
         pub fn info(&self) -> String {
             return format!(
                 "title:\"{}\", description:\"{}\", read:{}",

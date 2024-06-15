@@ -13,7 +13,7 @@ This project is a simple todo application implemented in Rust, designed to manag
 - **Create Notes:** Easily add new notes to your todo list.
 - **Delete Notes:** Remove notes that are completed or no longer needed.
 - **Display Notes:** View your current list of notes with descriptions.
-
+- **Change Notes Status:** Every note after it's read or seen, is marked as read.
 ## Glance
 
 <div align="center" >

@@ -7,6 +7,9 @@ use crate::library::utils::utils::console_clear;
 
 fn main() {
     let mut notes: Vec<Note> = Vec::new();
+    notes.push(Note::new(String::from("Zaeem"), String::from("Hello World"), false));
+    notes.push(Note::new(String::from("Noor"), String::from("Hello There"), false));
+    notes.push(Note::new(String::from("Shahab"), String::from("Wow, Great !"), true));
     Menu::welcome();
     loop {
         match Menu::main_menu() {
@@ -27,8 +30,9 @@ fn main() {
             }
             2 => {
                 Msg::clear_alert("List of all Notes");
-                for (i, note) in notes.iter().enumerate() {
+                for (i, note) in notes.iter_mut().enumerate() {
                     println!("{}> {}", i + 1, note.info());
+                    note.set_read(true);
                 }
                 enter_to_continue();
             }
