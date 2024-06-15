@@ -1,7 +1,7 @@
 # 
 
 <div align="center" >
-<img style="height:200px;" src="./../.github/assets/terminal.png" /> 
+<img style="height:100px;" src="./../.github/assets/terminal.png" /> 
 <br />
 <h1>TODOs Program</h1>
 </div>
