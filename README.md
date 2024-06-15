@@ -4,7 +4,7 @@
 <img style="height:100px;" src=".github/assets/rust.gif" >
 <img style="height:100px;" src=".github/assets/cargo.png" >
 
-# <img style="width:50px;" src=".github/assets/brackets.png" /><span>&nbsp;</span> Console Projects in RUST
+# <img style="width:50px;" src=".github/assets/brackets.webp" /><span>&nbsp;</span> Console Projects in RUST
 
 This repository contains a collection of console-based projects developed in the Rust programming language. Each project demonstrates fundamental Rust concepts and provides practical examples of building command-line utilities and applications.
 </div>
