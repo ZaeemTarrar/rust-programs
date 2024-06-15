@@ -26,6 +26,6 @@ cargo build ;
 
 ## Programs/Projects
 
-- [x] TODOs Program
+- [x] TODOs Program (todo)
 - [ ] Tik-Tak-Toe Program
 
