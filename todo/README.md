@@ -1,5 +1,5 @@
 # TODOs Program
 
 <div align="center" >
-<img style="height:100px;" src="./.github/image.png" />
+<img style="height:300px;" src="./.github/image.png" />
 </div>
