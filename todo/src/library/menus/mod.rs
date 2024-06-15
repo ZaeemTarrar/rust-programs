@@ -41,8 +41,20 @@ pub mod menus {
 
         pub fn new_note() -> (String, String) {
             let title = take_input("Note Title:");
-            let desc = take_input("Note Description:");
+            let desc = take_input("\nNote Description:");
             return (title, desc);
+        }
+
+        pub fn del_note() -> u8 {
+            let id: String = take_input("Enter Note Id:");
+            match id.as_str().parse::<u8>() {
+                Ok(n) => {
+                    return n;
+                }
+                Err(_) => {
+                    return 0;
+                }
+            }
         }
     }
 

@@ -32,7 +32,16 @@ fn main() {
                 }
                 enter_to_continue();
             }
-            3 => {}
+            3 => {
+                Msg::clear_alert("Delete a Note");
+                let del_id: u8 = Menu::del_note();
+                if del_id != 0 && (del_id as usize) < notes.len() {
+                    notes.remove((del_id as usize) - 1);
+                    Msg::flash(&format!("Note:{} deleted successfully", del_id));
+                } else {
+                    Msg::flash("Note id doesn't Exist");
+                }
+            }
             4 => {
                 Msg::clear_alert("Exiting Program");
                 process::exit(0);

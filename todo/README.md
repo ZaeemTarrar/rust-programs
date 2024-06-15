@@ -9,8 +9,6 @@ This project is a simple todo application implemented in Rust, designed to manag
 
 </div>
 
-
-
 ## Features
 - **Create Notes:** Easily add new notes to your todo list.
 - **Delete Notes:** Remove notes that are completed or no longer needed.
@@ -20,4 +18,8 @@ This project is a simple todo application implemented in Rust, designed to manag
 
 <div align="center" >
 <img style="height:300px;" src="./.github/image.png" />
+<img style="height:300px;" src="./.github/image-1.png" />
+<img style="height:300px;" src="./.github/image-2.png" />
+<img style="height:300px;" src="./.github/image-3.png" />
+<img style="height:300px;" src="./.github/image-4.png" />
 </div>
