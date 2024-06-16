@@ -17,4 +17,7 @@ This project is a console-based implementation of the classic Tik-Tak-Toe game u
 
 <div align="center" >
 &nbsp;<img style="height:150px;" src="./.github/image.png" />&nbsp;
+&nbsp;<img style="height:150px;" src="./.github/image-2.png" />&nbsp;
+&nbsp;<img style="height:150px;" src="./.github/image-3.png" />&nbsp;
+&nbsp;<img style="height:150px;" src="./.github/image-4.png" />&nbsp;
 </div>
