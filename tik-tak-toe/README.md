@@ -10,8 +10,29 @@ This project is a console-based implementation of the classic Tik-Tak-Toe game u
 ## Features
 - **Play Tik-Tak-Toe:** Enjoy a game of Tik-Tak-Toe against another player.
 - **Interactive Console Interface:** User-friendly interface designed for seamless gameplay.
-- **Winning Detection:** Automatically detects winning moves and declares the winner.
 - **Board Display:** Visual representation of the game board during gameplay.
+- **Player vs Player:** Two players can take turns marking spaces on the board.
+- **Win Detection:** Automatically detects when a player achieves three symbols in a row.
+- **Draw Game Detection:** Recognizes when no more moves are possible without a winner.
+- **Play Again Option:** After each game, players can choose to start a new game without restarting the program.
+
+## How to Play
+**Installation:** Clone the repository and compile using Cargo.
+
+```sh
+git clone https://github.com/ZaeemTarrar/rust-programs.git ;
+cd ./rust-programs/tik-tak-toe/ ;
+cargo build ;
+```
+
+**Run:** Launch the executable to start the Tic-Tac-Toe game.
+
+```sh
+./target/debug/tik-tak-toe ;
+```
+
+**Gameplay:** Follow on-screen prompts to input your moves and enjoy the game.
+**Play Again:** After each game, choose whether to play another round or exit.
 
 ## Snapshots
 
@@ -20,4 +41,5 @@ This project is a console-based implementation of the classic Tik-Tak-Toe game u
 &nbsp;<img style="height:250px;" src="./.github/image-1.png" />&nbsp;
 &nbsp;<img style="height:250px;" src="./.github/image-2.png" />&nbsp;
 &nbsp;<img style="height:250px;" src="./.github/image-3.png" />&nbsp;
+&nbsp;<img style="height:250px;" src="./.github/image-4.png" />&nbsp;
 </div>
