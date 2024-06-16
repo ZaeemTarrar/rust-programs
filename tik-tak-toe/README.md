@@ -17,7 +17,7 @@ This project is a console-based implementation of the classic Tik-Tak-Toe game u
 - **Play Again Option:** After each game, players can choose to start a new game without restarting the program.
 
 ## How to Play
-**Installation:** Clone the repository and compile using Cargo.
+- **Installation:** Clone the repository and compile using Cargo.
 
 ```sh
 git clone https://github.com/ZaeemTarrar/rust-programs.git ;
@@ -25,14 +25,14 @@ cd ./rust-programs/tik-tak-toe/ ;
 cargo build ;
 ```
 
-**Run:** Launch the executable to start the Tic-Tac-Toe game.
+- **Run:** Launch the executable to start the Tic-Tac-Toe game.
 
 ```sh
 ./target/debug/tik-tak-toe ;
 ```
 
-**Gameplay:** Follow on-screen prompts to input your moves and enjoy the game.
-**Play Again:** After each game, choose whether to play another round or exit.
+- **Gameplay:** Follow on-screen prompts to input your moves and enjoy the game.
+- **Play Again:** After each game, choose whether to play another round or exit.
 
 ## Snapshots
 
