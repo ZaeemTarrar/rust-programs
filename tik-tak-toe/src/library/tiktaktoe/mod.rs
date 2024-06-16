@@ -9,6 +9,12 @@ pub mod game {
     pub const YELLOW: &str = "\x1b[33m";
     pub const GREEN: &str = "\x1b[32m";
 
+    /// ## Game Turn List
+    /// There are only 2 players in this game.
+    /// - Player1
+    /// - Player2
+    /// - **Note:** Third case is When the Game board is refresh
+    /// and none of the players is playing.
     #[derive(PartialEq, Clone, Copy)]
     pub enum Turn {
         PLAYER1 = 1,
