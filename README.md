@@ -24,9 +24,29 @@ cargo build ;
 ./target/debug/{cargo-project}
 ```
 
+## Topics
+
+- [ ] Input/Output
+- [ ] File System
+- [ ] Fixed Console Coordinates
+- [ ] Console Colors
+- [ ] Console Animations
+- [ ] Database 
+- [ ] Terminal Commands and Control
+- [ ] Date/Time 
+- [ ] API Calls and Deserialization
+- [ ] Web Crawling
+- [ ] Web Scraping
+- [ ] Hardware Interaction
+    - [ ] Beeps and Sounds
+    - [ ] Microphone
+- [ ] FPS and Program loop
+- [ ] Password Encryption/Decryption
+- [ ] Data Processing
+- [ ] Visuals -> Charts/Graphs/Progress/Status etc
+
 ## Programs/Projects
 
 - [x] TODOs Program (todo)
 - [x] Tik-Tak-Toe Game Program (tik-tak-toe)
 - [ ] Bill Manager Program (bill-manager)
-
